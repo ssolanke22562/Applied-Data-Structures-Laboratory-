@@ -30,6 +30,6 @@ The goal is to find the **index of the first occurrence of `0`**. Once we know w
 
 ## How to Run
 1.  Ensure you have a C++ compiler installed (like GCC or Clang).
-2.  Save the provided code into a file named `main.cpp`.
+2.  Save the provided code into a file named `assignment1.cpp`.
 3.  Compile the code using: `g++ -O2 main.cpp -o count_zeroes`
 4.  Run the executable: `./count_zeroes`
